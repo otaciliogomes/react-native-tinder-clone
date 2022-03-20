@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697133903778",
+    "project_id": "clone-twitch",
+    "storage_bucket": "clone-twitch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697133903778:android:84e258edd1b403d13c0cfb",
+        "android_client_info": {
+          "package_name": "com.tinder2yt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697133903778-cgbn906j12jtt904lvfulvk6ac3f2t45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoCErlJk_W-jVnZVrSi7Qf8TPZbATnqHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697133903778-cgbn906j12jtt904lvfulvk6ac3f2t45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
